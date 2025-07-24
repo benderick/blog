@@ -94,6 +94,9 @@ params:
       - name: 标签
         url: tags
 
+  homeInfoParams:
+    Content: >
+      I read, write, and code.
 
   socialIcons:
     - name: github
