@@ -89,6 +89,7 @@ params:
         url: tags
 
   homeInfoParams:
+    enabled: false
     Title: "欢迎来到我的博客 👋"
     Content: >
       这里是我的个人博客，分享技术文章、生活感悟和学习笔记。
