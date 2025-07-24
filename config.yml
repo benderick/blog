@@ -107,8 +107,8 @@ params:
       url: "https://ko-fi.com/adityatelange"
 
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
-    Text: "建议修改" # 编辑按钮文本
+    URL: "https://github.com/benderick/blog/tree/exampleSite/content"
+    Text: "修改" # 编辑按钮文本
     appendFilePath: true # 在编辑链接中附加文件路径
 
   # label:
