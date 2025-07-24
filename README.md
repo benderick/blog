@@ -1,5 +1,7 @@
 # hugo-paperMod Example
 
+我的啦！
+
 This repository offers an example site for [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 
 ## Install
