@@ -43,7 +43,7 @@ languages:
         - name: 分类
           url: categories/
           weight: 15
-        - name: 系列功能
+        - name: 系列
           url: series/
           weight: 20
         - name: 标签
@@ -94,17 +94,6 @@ params:
       - name: 标签
         url: tags
 
-  homeInfoParams:
-    enabled: false
-    Title: "欢迎来到我的博客 👋"
-    Content: >
-      这里是我的个人博客，分享技术文章、生活感悟和学习笔记。
-
-      - **PaperMod** 是一个简洁、快速、响应式的Hugo主题，具有实用的功能集，提升用户体验。
-
-      - 如果您觉得这个主题不错，欢迎在GitHub上给我们一个星标 🌟，并与朋友和社交媒体分享。
-
-      - PaperMod基于[Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3)主题开发。
 
   socialIcons:
     - name: github
